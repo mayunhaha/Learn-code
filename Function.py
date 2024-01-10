@@ -12,6 +12,6 @@ print(t)
 print(y)
 print(u)
 
-
+print(1)
 
 
